@@ -2,3 +2,4 @@
 salam
 bye
 hi
+wai
